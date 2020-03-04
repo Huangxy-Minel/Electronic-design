@@ -1,0 +1,13 @@
+.\ad9854_parallel.o: ..\HARDWARE\AD9854\AD9854_Parallel.c
+.\ad9854_parallel.o: ..\HARDWARE\AD9854\AD9854_Parallel.h
+.\ad9854_parallel.o: ..\USER\stm32f10x.h
+.\ad9854_parallel.o: ..\CORE\core_cm3.h
+.\ad9854_parallel.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h
+.\ad9854_parallel.o: ..\USER\system_stm32f10x.h
+.\ad9854_parallel.o: ..\USER\stm32f10x_conf.h
+.\ad9854_parallel.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\ad9854_parallel.o: ..\USER\stm32f10x.h
+.\ad9854_parallel.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+.\ad9854_parallel.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\ad9854_parallel.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\ad9854_parallel.o: ..\STM32F10x_FWLib\inc\misc.h

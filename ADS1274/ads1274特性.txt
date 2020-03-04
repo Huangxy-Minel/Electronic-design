@@ -1,0 +1,21 @@
+1.24位，无寄存器，SPI协议通信
+
+2.四种模式采样率
+High-Speed:144,531
+High-Resolution:52,734
+Low-Power:52,734
+Low-Speed:10,547
+
+3.数据格式：24位，正最大7FFFFFh（+REF），负最大800000h（-REF）
+VREF = VREFP-VREFN
+
+4.clock：27M，使用得是高分辨模式，高速模式需37M晶振，模式01
+
+5.引脚
+模式选择后DRDY置1
+SYNC（同步引脚）：0会话结束，1会话开始。下降沿导致DRDY置1，数据准备好后DRDY拉低
+
+6.
+
+
+
